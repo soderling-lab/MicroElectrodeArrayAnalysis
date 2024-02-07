@@ -1,0 +1,21 @@
+name: anovaenv
+channels:
+   - defaults
+   - conda-forge
+dependencies:
+   - python=3.8
+   - pip
+   - ipykernel
+   - tqdm
+   - scipy
+   - statsmodels
+   - pip:
+      - gseapy
+      - pandas
+      - numpy
+      - matplotlib
+      - seaborn
+      - scikit-learn
+      - pingouin
+
+
