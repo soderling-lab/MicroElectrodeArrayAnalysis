@@ -1,0 +1,331 @@
+,Test Types,Gene,T-statistic,Regulation,P-value,Significance,Warnings
+0,Number of Spikes,GPR37L 1,-0.7702999096628084,Down-Regulated,0.44506023963330565,Not Significant,No Warning
+1,Number of Spikes,GPR37L 2,-0.1485826488014328,Down-Regulated,0.8825324193564554,Not Significant,No Warning
+2,Number of Spikes,LGI2 A12,-1.0705636505874039,Down-Regulated,0.2899509016732761,Not Significant,No Warning
+3,Number of Spikes,SLITRK5,0.250447584250342,Up-Regulated,0.8033564806310114,Not Significant,No Warning
+4,Number of Spikes,THSD7 1,-1.7469565400986873,Down-Regulated,0.0873190987859507,Not Significant,No Warning
+5,Number of Spikes,THSD7 2,-1.4411930248795166,Down-Regulated,0.1563032868026605,Not Significant,No Warning
+6,Mean Firing Rate (Hz),GPR37L 1,-0.7702998432207158,Down-Regulated,0.44506027864700903,Not Significant,No Warning
+7,Mean Firing Rate (Hz),GPR37L 2,-0.1485824463388916,Down-Regulated,0.8825325782212567,Not Significant,No Warning
+8,Mean Firing Rate (Hz),LGI2 A12,-1.0705635265276336,Down-Regulated,0.28995095688647593,Not Significant,No Warning
+9,Mean Firing Rate (Hz),SLITRK5,0.25044775910194467,Up-Regulated,0.8033563462485468,Not Significant,No Warning
+10,Mean Firing Rate (Hz),THSD7 1,-1.7469564186802684,Down-Regulated,0.08731912008059668,Not Significant,No Warning
+11,Mean Firing Rate (Hz),THSD7 2,-1.4411928620785492,Down-Regulated,0.15630333256520276,Not Significant,No Warning
+12,ISI Coefficient of Variation - Avg,GPR37L 1,-0.20974793794422866,Down-Regulated,0.8347906281060627,Not Significant,No Warning
+13,ISI Coefficient of Variation - Avg,GPR37L 2,0.9803868253335936,Up-Regulated,0.33202353421287745,Not Significant,No Warning
+14,ISI Coefficient of Variation - Avg,LGI2 A12,0.7505322217393576,Up-Regulated,0.45675634989317815,Not Significant,No Warning
+15,ISI Coefficient of Variation - Avg,SLITRK5,0.3483465112473454,Up-Regulated,0.7291692196879466,Not Significant,No Warning
+16,ISI Coefficient of Variation - Avg,THSD7 1,0.023812225056439484,Up-Regulated,0.9811053871850279,Not Significant,No Warning
+17,ISI Coefficient of Variation - Avg,THSD7 2,-0.6688709618875113,Down-Regulated,0.506920860502553,Not Significant,No Warning
+18,Number of Active Electrodes,GPR37L 1,-0.7115904267740667,Down-Regulated,0.4803117206613452,Not Significant,No Warning
+19,Number of Active Electrodes,GPR37L 2,-0.1826569296352859,Down-Regulated,0.8558698608979919,Not Significant,No Warning
+20,Number of Active Electrodes,LGI2 A12,-1.3906767891559673,Down-Regulated,0.17101497198668675,Not Significant,No Warning
+21,Number of Active Electrodes,SLITRK5,0.5546312146263213,Up-Regulated,0.5818337831843271,Not Significant,No Warning
+22,Number of Active Electrodes,THSD7 1,-1.7232808737106582,Down-Regulated,0.09155443230298929,Not Significant,No Warning
+23,Number of Active Electrodes,THSD7 2,-0.30785964799348003,Down-Regulated,0.7595788244739835,Not Significant,No Warning
+24,Weighted Mean Firing Rate (Hz),GPR37L 1,-1.7087068855655942,Down-Regulated,0.09424537770194957,Not Significant,No Warning
+25,Weighted Mean Firing Rate (Hz),GPR37L 2,0.2890639042138898,Up-Regulated,0.7738312511996612,Not Significant,No Warning
+26,Weighted Mean Firing Rate (Hz),LGI2 A12,-0.4133061931439098,Down-Regulated,0.6813027431496246,Not Significant,No Warning
+27,Weighted Mean Firing Rate (Hz),SLITRK5,-0.13378777918449672,Down-Regulated,0.8941540091389357,Not Significant,No Warning
+28,Weighted Mean Firing Rate (Hz),THSD7 1,-2.098751310734029,Down-Regulated,0.04135743688444625,Significant diff between gene and control,No Warning
+29,Weighted Mean Firing Rate (Hz),THSD7 2,-1.2779477272072919,Down-Regulated,0.20767931691350155,Not Significant,No Warning
+30,Number of Bursts,GPR37L 1,-0.4078462006377182,Down-Regulated,0.68527867585584,Not Significant,No Warning
+31,Number of Bursts,GPR37L 2,0.060469018343417925,Up-Regulated,0.9520440472950593,Not Significant,No Warning
+32,Number of Bursts,LGI2 A12,-0.8219887649373055,Down-Regulated,0.41532368330489466,Not Significant,No Warning
+33,Number of Bursts,SLITRK5,0.4605383606838353,Up-Regulated,0.647299690583238,Not Significant,No Warning
+34,Number of Bursts,THSD7 1,-1.258150809108597,Down-Regulated,0.2146861792760204,Not Significant,No Warning
+35,Number of Bursts,THSD7 2,-0.7875474860085337,Down-Regulated,0.4350007962886766,Not Significant,No Warning
+36,Number of Bursting Electrodes,GPR37L 1,-0.6638663742608529,Down-Regulated,0.5100897032804695,Not Significant,No Warning
+37,Number of Bursting Electrodes,GPR37L 2,-0.3107477004289953,Down-Regulated,0.7573961895120005,Not Significant,No Warning
+38,Number of Bursting Electrodes,LGI2 A12,-1.4946279587283302,Down-Regulated,0.14184048587319883,Not Significant,No Warning
+39,Number of Bursting Electrodes,SLITRK5,0.33803170928150084,Up-Regulated,0.7368772108128432,Not Significant,No Warning
+40,Number of Bursting Electrodes,THSD7 1,-1.9121964182942761,Down-Regulated,0.062090390098111105,Not Significant,No Warning
+41,Number of Bursting Electrodes,THSD7 2,-0.38478162919972403,Down-Regulated,0.7021725370521951,Not Significant,No Warning
+42,Burst Duration - Avg (sec),GPR37L 1,0.489664872532314,Up-Regulated,0.6266981985028839,Not Significant,No Warning
+43,Burst Duration - Avg (sec),GPR37L 2,1.7116195412137731,Up-Regulated,0.09370240860350325,Not Significant,No Warning
+44,Burst Duration - Avg (sec),LGI2 A12,0.3737246753431079,Up-Regulated,0.7103261749548809,Not Significant,No Warning
+45,Burst Duration - Avg (sec),SLITRK5,0.37168087008801753,Up-Regulated,0.7118371133656378,Not Significant,No Warning
+46,Burst Duration - Avg (sec),THSD7 1,-0.991118525586651,Down-Regulated,0.3268127486296457,Not Significant,No Warning
+47,Burst Duration - Avg (sec),THSD7 2,-0.9766227211331694,Down-Regulated,0.33386426416282244,Not Significant,No Warning
+48,Burst Duration - Std (sec),GPR37L 1,1.5350672504391931,Up-Regulated,0.1316174518145075,Not Significant,No Warning
+49,Burst Duration - Std (sec),GPR37L 2,0.7779183495885996,Up-Regulated,0.4406000741142305,Not Significant,No Warning
+50,Burst Duration - Std (sec),LGI2 A12,-1.2028838725318471,Down-Regulated,0.2351761100532387,Not Significant,No Warning
+51,Burst Duration - Std (sec),SLITRK5,-0.866053829966405,Down-Regulated,0.39095543302965186,Not Significant,No Warning
+52,Burst Duration - Std (sec),THSD7 1,0.4924500293001336,Up-Regulated,0.624743550349506,Not Significant,No Warning
+53,Burst Duration - Std (sec),THSD7 2,0.7907348507493561,Up-Regulated,0.4331567503916224,Not Significant,No Warning
+54,Number of Spikes per Burst - Avg,GPR37L 1,-0.4945242872736312,Down-Regulated,0.6232895858491503,Not Significant,No Warning
+55,Number of Spikes per Burst - Avg,GPR37L 2,1.6635599302705382,Up-Regulated,0.10299962530260516,Not Significant,No Warning
+56,Number of Spikes per Burst - Avg,LGI2 A12,-1.6718291184374507,Down-Regulated,0.10134796897159205,Not Significant,No Warning
+57,Number of Spikes per Burst - Avg,SLITRK5,-0.5969458445663521,Down-Regulated,0.5534704951841758,Not Significant,No Warning
+58,Number of Spikes per Burst - Avg,THSD7 1,-1.8512164027523217,Down-Regulated,0.0705646433136791,Not Significant,No Warning
+59,Number of Spikes per Burst - Avg,THSD7 2,-1.2617220829026747,Down-Regulated,0.21340932223090453,Not Significant,No Warning
+60,Number of Spikes per Burst - Std,GPR37L 1,-0.009678086932591739,Down-Regulated,0.9923199766059843,Not Significant,No Warning
+61,Number of Spikes per Burst - Std,GPR37L 2,0.956087778736641,Up-Regulated,0.3440257841859372,Not Significant,No Warning
+62,Number of Spikes per Burst - Std,LGI2 A12,-0.4626102634446288,Down-Regulated,0.6458246999672835,Not Significant,No Warning
+63,Number of Spikes per Burst - Std,SLITRK5,-1.0974140309319753,Down-Regulated,0.27817197917375536,Not Significant,No Warning
+64,Number of Spikes per Burst - Std,THSD7 1,1.0323591449437788,Up-Regulated,0.30730128651626193,Not Significant,No Warning
+65,Number of Spikes per Burst - Std,THSD7 2,-0.027443432128595034,Down-Regulated,0.9782247735994085,Not Significant,No Warning
+66,Mean ISI within Burst - Avg (sec),GPR37L 1,-0.8588057334911682,Down-Regulated,0.3949009293463067,Not Significant,No Warning
+67,Mean ISI within Burst - Avg (sec),GPR37L 2,-0.5257261674651765,Down-Regulated,0.6016038440977745,Not Significant,No Warning
+68,Mean ISI within Burst - Avg (sec),LGI2 A12,1.6680434671284805,Up-Regulated,0.10210137734128996,Not Significant,No Warning
+69,Mean ISI within Burst - Avg (sec),SLITRK5,0.5598370902123396,Up-Regulated,0.5783067242184481,Not Significant,No Warning
+70,Mean ISI within Burst - Avg (sec),THSD7 1,-0.4720468335152994,Down-Regulated,0.6391250442906239,Not Significant,No Warning
+71,Mean ISI within Burst - Avg (sec),THSD7 2,-0.585485213795049,Down-Regulated,0.5610830311296549,Not Significant,No Warning
+72,Mean ISI within Burst - Std (sec),GPR37L 1,1.2809641357156367,Up-Regulated,0.2066269088168675,Not Significant,No Warning
+73,Mean ISI within Burst - Std (sec),GPR37L 2,1.2290764626412287,Up-Regulated,0.22529350404154244,Not Significant,No Warning
+74,Mean ISI within Burst - Std (sec),LGI2 A12,-0.1952608954247127,Down-Regulated,0.8460486390541496,Not Significant,No Warning
+75,Mean ISI within Burst - Std (sec),SLITRK5,1.4152118449270386,Up-Regulated,0.1637410240098537,Not Significant,No Warning
+76,Mean ISI within Burst - Std (sec),THSD7 1,-0.4785350415882736,Down-Regulated,0.6345361661318405,Not Significant,No Warning
+77,Mean ISI within Burst - Std (sec),THSD7 2,1.142514335481324,Up-Regulated,0.2591522709097663,Not Significant,No Warning
+78,Median ISI within Burst - Avg (sec),GPR37L 1,-1.0903937949724274,Down-Regulated,0.2812187064354811,Not Significant,No Warning
+79,Median ISI within Burst - Avg (sec),GPR37L 2,-0.6744792704012835,Down-Regulated,0.5033824835789589,Not Significant,No Warning
+80,Median ISI within Burst - Avg (sec),LGI2 A12,1.6980881824046248,Up-Regulated,0.09624698919326895,Not Significant,No Warning
+81,Median ISI within Burst - Avg (sec),SLITRK5,0.6747813998022733,Up-Regulated,0.5031922481641483,Not Significant,No Warning
+82,Median ISI within Burst - Avg (sec),THSD7 1,-0.8165892802347278,Down-Regulated,0.4183721599515693,Not Significant,No Warning
+83,Median ISI within Burst - Avg (sec),THSD7 2,-0.9468599019763525,Down-Regulated,0.3486578539062162,Not Significant,No Warning
+84,Median ISI within Burst - Std (sec),GPR37L 1,0.17538102618247706,Up-Regulated,0.8615499877539328,Not Significant,No Warning
+85,Median ISI within Burst - Std (sec),GPR37L 2,1.2571829334062863,Up-Regulated,0.21503320693919492,Not Significant,No Warning
+86,Median ISI within Burst - Std (sec),LGI2 A12,-0.5276770807550529,Down-Regulated,0.6002596767409762,Not Significant,No Warning
+87,Median ISI within Burst - Std (sec),SLITRK5,0.7342573584012344,Up-Regulated,0.46651836721216067,Not Significant,No Warning
+88,Median ISI within Burst - Std (sec),THSD7 1,1.1072435964858638,Up-Regulated,0.2739451366319532,Not Significant,No Warning
+89,Median ISI within Burst - Std (sec),THSD7 2,0.48915263431519385,Up-Regulated,0.6270579874451981,Not Significant,No Warning
+90,Median/Mean ISI within Burst - Avg,GPR37L 1,-1.36993731994765,Down-Regulated,0.17735646166218633,Not Significant,No Warning
+91,Median/Mean ISI within Burst - Avg,GPR37L 2,-0.726593603665722,Down-Regulated,0.47115637031660695,Not Significant,No Warning
+92,Median/Mean ISI within Burst - Avg,LGI2 A12,0.7102211634554023,Up-Regulated,0.48115224301495396,Not Significant,No Warning
+93,Median/Mean ISI within Burst - Avg,SLITRK5,0.95669442774141,Up-Regulated,0.34372269544407086,Not Significant,No Warning
+94,Median/Mean ISI within Burst - Avg,THSD7 1,-0.5554687999634007,Down-Regulated,0.581265606078182,Not Significant,No Warning
+95,Median/Mean ISI within Burst - Avg,THSD7 2,-0.6230088321113054,Down-Regulated,0.536355461082233,Not Significant,No Warning
+96,Median/Mean ISI within Burst - Std,GPR37L 1,1.7520353831693976,Up-Regulated,0.08643213825376764,Not Significant,No Warning
+97,Median/Mean ISI within Burst - Std,GPR37L 2,0.09435313079168578,Up-Regulated,0.9252384477270564,Not Significant,No Warning
+98,Median/Mean ISI within Burst - Std,LGI2 A12,-1.6946142474591848,Down-Regulated,0.09690940014603222,Not Significant,No Warning
+99,Median/Mean ISI within Burst - Std,SLITRK5,-1.3800776852735699,Down-Regulated,0.1742335978702784,Not Significant,No Warning
+100,Median/Mean ISI within Burst - Std,THSD7 1,-0.34028545583482694,Down-Regulated,0.7351906746145584,Not Significant,No Warning
+101,Median/Mean ISI within Burst - Std,THSD7 2,0.9368290178465114,Up-Regulated,0.35373921603042535,Not Significant,No Warning
+102,Inter-Burst Interval - Avg (sec),GPR37L 1,0.9006905539359151,Up-Regulated,0.3724443797785989,Not Significant,No Warning
+103,Inter-Burst Interval - Avg (sec),GPR37L 2,-1.031458628477563,Down-Regulated,0.30771864740492594,Not Significant,No Warning
+104,Inter-Burst Interval - Avg (sec),LGI2 A12,1.2233959182551353,Up-Regulated,0.22741037368553405,Not Significant,No Warning
+105,Inter-Burst Interval - Avg (sec),SLITRK5,2.155084934518855,Up-Regulated,0.03642359391280758,Significant diff between gene and control,No Warning
+106,Inter-Burst Interval - Avg (sec),THSD7 1,0.24842441468027582,Up-Regulated,0.8049117916495367,Not Significant,No Warning
+107,Inter-Burst Interval - Avg (sec),THSD7 2,-0.09577287923648806,Down-Regulated,0.9241169807267303,Not Significant,No Warning
+108,Inter-Burst Interval - Std (sec),GPR37L 1,-0.11092822755639013,Down-Regulated,0.9121558536001622,Not Significant,No Warning
+109,Inter-Burst Interval - Std (sec),GPR37L 2,0.7982314283258265,Up-Regulated,0.4288380703569734,Not Significant,No Warning
+110,Inter-Burst Interval - Std (sec),LGI2 A12,0.2648599202065446,Up-Regulated,0.7923006192534393,Not Significant,No Warning
+111,Inter-Burst Interval - Std (sec),SLITRK5,1.8702761773127239,Up-Regulated,0.06781637028019004,Not Significant,No Warning
+112,Inter-Burst Interval - Std (sec),THSD7 1,2.156363052054449,Up-Regulated,0.03631793213240813,Significant diff between gene and control,No Warning
+113,Inter-Burst Interval - Std (sec),THSD7 2,-0.4955905127083576,Down-Regulated,0.6225427974882147,Not Significant,No Warning
+114,Burst Frequency - Avg (Hz),GPR37L 1,0.2623030460605285,Up-Regulated,0.7942589520994839,Not Significant,No Warning
+115,Burst Frequency - Avg (Hz),GPR37L 2,1.0000847164311248,Up-Regulated,0.32250149542209205,Not Significant,No Warning
+116,Burst Frequency - Avg (Hz),LGI2 A12,0.820305813859778,Up-Regulated,0.4162723979497006,Not Significant,No Warning
+117,Burst Frequency - Avg (Hz),SLITRK5,0.40568203702504235,Up-Regulated,0.6868571091621415,Not Significant,No Warning
+118,Burst Frequency - Avg (Hz),THSD7 1,-0.19599556676377203,Down-Regulated,0.8454769161415948,Not Significant,No Warning
+119,Burst Frequency - Avg (Hz),THSD7 2,-0.5060039138918278,Down-Regulated,0.6152703892217006,Not Significant,No Warning
+120,Burst Frequency - Std (Hz),GPR37L 1,-0.002000605288643868,Down-Regulated,0.9984124000822844,Not Significant,No Warning
+121,Burst Frequency - Std (Hz),GPR37L 2,1.0387993826122015,Up-Regulated,0.30432772683446313,Not Significant,No Warning
+122,Burst Frequency - Std (Hz),LGI2 A12,0.7908196954196957,Up-Regulated,0.4331077275185926,Not Significant,No Warning
+123,Burst Frequency - Std (Hz),SLITRK5,0.0162319954381543,Up-Regulated,0.987119510206937,Not Significant,No Warning
+124,Burst Frequency - Std (Hz),THSD7 1,0.8283429304566291,Up-Regulated,0.41175362001596294,Not Significant,No Warning
+125,Burst Frequency - Std (Hz),THSD7 2,1.0682103753354075,Up-Regulated,0.2909995497087639,Not Significant,No Warning
+126,IBI Coefficient of Variation - Avg,GPR37L 1,0.8066862146542846,Up-Regulated,0.4239985389040112,Not Significant,No Warning
+127,IBI Coefficient of Variation - Avg,GPR37L 2,3.596385693191065,Up-Regulated,0.0007847023989102357,Significant diff between gene and control,No Warning
+128,IBI Coefficient of Variation - Avg,LGI2 A12,2.67585187045962,Up-Regulated,0.010291814684653827,Significant diff between gene and control,No Warning
+129,IBI Coefficient of Variation - Avg,SLITRK5,0.5938357560578847,Up-Regulated,0.5555311446347351,Not Significant,No Warning
+130,IBI Coefficient of Variation - Avg,THSD7 1,-0.10730682106324341,Down-Regulated,0.9150122312782831,Not Significant,No Warning
+131,IBI Coefficient of Variation - Avg,THSD7 2,0.9890360394470917,Up-Regulated,0.32781958839005254,Not Significant,No Warning
+132,IBI Coefficient of Variation - Std,GPR37L 1,1.0246141280177101,Up-Regulated,0.31090351885795764,Not Significant,No Warning
+133,IBI Coefficient of Variation - Std,GPR37L 2,0.7331032954044221,Up-Regulated,0.4672151129036811,Not Significant,No Warning
+134,IBI Coefficient of Variation - Std,LGI2 A12,1.2051942821094326,Up-Regulated,0.2342918311177062,Not Significant,No Warning
+135,IBI Coefficient of Variation - Std,SLITRK5,0.36150369430202073,Up-Regulated,0.7193781710799354,Not Significant,No Warning
+136,IBI Coefficient of Variation - Std,THSD7 1,1.4217534249735266,Up-Regulated,0.16184286562009223,Not Significant,No Warning
+137,IBI Coefficient of Variation - Std,THSD7 2,1.1094464885514133,Up-Regulated,0.27300411402351665,Not Significant,No Warning
+138,Burst Percentage - Avg,GPR37L 1,-0.6220212251655641,Down-Regulated,0.5369989556664251,Not Significant,No Warning
+139,Burst Percentage - Avg,GPR37L 2,-1.1723456163915458,Down-Regulated,0.2470941444004866,Not Significant,No Warning
+140,Burst Percentage - Avg,LGI2 A12,-1.8551618179544391,Down-Regulated,0.06998812490918854,Not Significant,No Warning
+141,Burst Percentage - Avg,SLITRK5,-0.14875379988088028,Down-Regulated,0.8823981252374062,Not Significant,No Warning
+142,Burst Percentage - Avg,THSD7 1,-1.093417744855126,Down-Regulated,0.27990347924608133,Not Significant,No Warning
+143,Burst Percentage - Avg,THSD7 2,-0.42563436087801326,Down-Regulated,0.67235915361114,Not Significant,No Warning
+144,Burst Percentage - Std,GPR37L 1,-0.9824043222636277,Down-Regulated,0.3310397270109856,Not Significant,No Warning
+145,Burst Percentage - Std,GPR37L 2,0.6476671549499172,Up-Regulated,0.520419809424667,Not Significant,No Warning
+146,Burst Percentage - Std,LGI2 A12,0.13662233201405435,Up-Regulated,0.8919255261019723,Not Significant,No Warning
+147,Burst Percentage - Std,SLITRK5,1.5050742187506503,Up-Regulated,0.13914113199886383,Not Significant,No Warning
+148,Burst Percentage - Std,THSD7 1,1.680214374325263,Up-Regulated,0.09969543864150061,Not Significant,No Warning
+149,Burst Percentage - Std,THSD7 2,0.41939370149450345,Up-Regulated,0.6768806176409605,Not Significant,No Warning
+150,Number of Network Bursts,GPR37L 1,-0.2704690236521189,Down-Regulated,0.7880093114037854,Not Significant,No Warning
+151,Number of Network Bursts,GPR37L 2,0.18312171559468857,Up-Regulated,0.8555072720044751,Not Significant,No Warning
+152,Number of Network Bursts,LGI2 A12,-0.9700928802951525,Down-Regulated,0.33707359684556304,Not Significant,No Warning
+153,Number of Network Bursts,SLITRK5,1.2152420818417997,Up-Regulated,0.23047446365702073,Not Significant,No Warning
+154,Number of Network Bursts,THSD7 1,-0.9006069787042751,Down-Regulated,0.3724883596363393,Not Significant,No Warning
+155,Number of Network Bursts,THSD7 2,-0.7618590319405265,Down-Regulated,0.45003281515095095,Not Significant,No Warning
+156,Network Burst Frequency,GPR37L 1,0.6176754117178578,Up-Regulated,0.5398353106460938,Not Significant,No Warning
+157,Network Burst Frequency,GPR37L 2,0.4260162133490792,Up-Regulated,0.6720828898171753,Not Significant,No Warning
+158,Network Burst Frequency,LGI2 A12,0.47627417047012643,Up-Regulated,0.6361335654804869,Not Significant,No Warning
+159,Network Burst Frequency,SLITRK5,1.283393751030687,Up-Regulated,0.20578214134091166,Not Significant,No Warning
+160,Network Burst Frequency,THSD7 1,-0.14711195256276058,Down-Regulated,0.883686548149262,Not Significant,No Warning
+161,Network Burst Frequency,THSD7 2,-0.5439668675917309,Down-Regulated,0.5890912881403247,Not Significant,No Warning
+162,Network Burst Duration - Avg (sec),GPR37L 1,-1.2045439215157492,Down-Regulated,0.2345405017089666,Not Significant,No Warning
+163,Network Burst Duration - Avg (sec),GPR37L 2,0.3243755517444882,Up-Regulated,0.7471242034546675,Not Significant,No Warning
+164,Network Burst Duration - Avg (sec),LGI2 A12,-0.8764205887664391,Down-Regulated,0.385355443705268,Not Significant,No Warning
+165,Network Burst Duration - Avg (sec),SLITRK5,-2.1011805044597787,Down-Regulated,0.04113318398171523,Significant diff between gene and control,No Warning
+166,Network Burst Duration - Avg (sec),THSD7 1,-1.4020388230680967,Down-Regulated,0.1676159472170917,Not Significant,No Warning
+167,Network Burst Duration - Avg (sec),THSD7 2,-0.9271782493777327,Down-Regulated,0.35867342436106064,Not Significant,No Warning
+168,Network Burst Duration - Std (sec),GPR37L 1,-0.349164394159329,Down-Regulated,0.7285592323448382,Not Significant,No Warning
+169,Network Burst Duration - Std (sec),GPR37L 2,-0.09354608558221816,Down-Regulated,0.9258760056810003,Not Significant,No Warning
+170,Network Burst Duration - Std (sec),LGI2 A12,-0.15174830212025542,Down-Regulated,0.880049050090612,Not Significant,No Warning
+171,Network Burst Duration - Std (sec),SLITRK5,-2.005284601944213,Down-Regulated,0.05083676280398744,Not Significant,No Warning
+172,Network Burst Duration - Std (sec),THSD7 1,0.006772383454754068,Up-Regulated,0.994625747102948,Not Significant,No Warning
+173,Network Burst Duration - Std (sec),THSD7 2,1.2985366298810757,Up-Regulated,0.2005753623756648,Not Significant,No Warning
+174,Number of Spikes per Network Burst - Avg,GPR37L 1,-2.1026648290527628,Down-Regulated,0.040996681639584136,Significant diff between gene and control,No Warning
+175,Number of Spikes per Network Burst - Avg,GPR37L 2,0.1791314307458122,Up-Regulated,0.858621191491233,Not Significant,No Warning
+176,Number of Spikes per Network Burst - Avg,LGI2 A12,-0.17566694023375662,Down-Regulated,0.8613266396425195,Not Significant,No Warning
+177,Number of Spikes per Network Burst - Avg,SLITRK5,-2.715362321619267,Down-Regulated,0.009292715430291656,Significant diff between gene and control,No Warning
+178,Number of Spikes per Network Burst - Avg,THSD7 1,-2.3470207417723774,Down-Regulated,0.023284602027185672,Significant diff between gene and control,No Warning
+179,Number of Spikes per Network Burst - Avg,THSD7 2,-1.626942781142449,Down-Regulated,0.11058099049654858,Not Significant,No Warning
+180,Number of Spikes per Network Burst - Std,GPR37L 1,-0.6828366283246571,Down-Regulated,0.49813477936922734,Not Significant,No Warning
+181,Number of Spikes per Network Burst - Std,GPR37L 2,0.3667313280969312,Up-Regulated,0.7155010318147432,Not Significant,No Warning
+182,Number of Spikes per Network Burst - Std,LGI2 A12,0.8827176886591672,Up-Regulated,0.38197867302058897,Not Significant,No Warning
+183,Number of Spikes per Network Burst - Std,SLITRK5,-2.3065582848030886,Down-Regulated,0.025635052942447695,Significant diff between gene and control,No Warning
+184,Number of Spikes per Network Burst - Std,THSD7 1,-0.33606261867310794,Down-Regulated,0.7383518042571988,Not Significant,No Warning
+185,Number of Spikes per Network Burst - Std,THSD7 2,1.236277437003403,Up-Regulated,0.22263097937444207,Not Significant,No Warning
+186,Mean ISI within Network Burst - Avg (sec),GPR37L 1,1.1590700930138313,Up-Regulated,0.2524092219960229,Not Significant,No Warning
+187,Mean ISI within Network Burst - Avg (sec),GPR37L 2,-0.22449221622925006,Down-Regulated,0.8233685293102762,Not Significant,No Warning
+188,Mean ISI within Network Burst - Avg (sec),LGI2 A12,-1.4084970730530884,Down-Regulated,0.16570741403506703,Not Significant,No Warning
+189,Mean ISI within Network Burst - Avg (sec),SLITRK5,1.3678289247197384,Up-Regulated,0.17801114558367073,Not Significant,No Warning
+190,Mean ISI within Network Burst - Avg (sec),THSD7 1,2.0310991925204225,Up-Regulated,0.048046898571491116,Significant diff between gene and control,No Warning
+191,Mean ISI within Network Burst - Avg (sec),THSD7 2,0.5489604981364421,Up-Regulated,0.5856875555267238,Not Significant,No Warning
+192,Mean ISI within Network Burst - Std (sec),GPR37L 1,1.2628299759071429,Up-Regulated,0.21301436383896444,Not Significant,No Warning
+193,Mean ISI within Network Burst - Std (sec),GPR37L 2,-0.22556901474221702,Down-Regulated,0.8225358352981977,Not Significant,No Warning
+194,Mean ISI within Network Burst - Std (sec),LGI2 A12,-2.2317714471098595,Down-Regulated,0.030542832036364487,Significant diff between gene and control,No Warning
+195,Mean ISI within Network Burst - Std (sec),SLITRK5,1.7132336465784552,Up-Regulated,0.09340262919391219,Not Significant,No Warning
+196,Mean ISI within Network Burst - Std (sec),THSD7 1,1.720971707473709,Up-Regulated,0.09197649715774905,Not Significant,No Warning
+197,Mean ISI within Network Burst - Std (sec),THSD7 2,-0.7868368211015008,Down-Regulated,0.4354125878612808,Not Significant,No Warning
+198,Median ISI within Network Burst - Avg (sec),GPR37L 1,0.753006965299482,Up-Regulated,0.455282396141249,Not Significant,No Warning
+199,Median ISI within Network Burst - Avg (sec),GPR37L 2,0.4903092451668031,Up-Regulated,0.6262457304624849,Not Significant,No Warning
+200,Median ISI within Network Burst - Avg (sec),LGI2 A12,-1.0789090696677643,Down-Regulated,0.286253278193961,Not Significant,No Warning
+201,Median ISI within Network Burst - Avg (sec),SLITRK5,1.931139475529053,Up-Regulated,0.05964156818414775,Not Significant,No Warning
+202,Median ISI within Network Burst - Avg (sec),THSD7 1,2.0483016389012327,Up-Regulated,0.046262401613299975,Significant diff between gene and control,No Warning
+203,Median ISI within Network Burst - Avg (sec),THSD7 2,0.08685269301068628,Up-Regulated,0.931165577109389,Not Significant,No Warning
+204,Median ISI within Network Burst - Std (sec),GPR37L 1,2.2883406194818727,Up-Regulated,0.02676087332923279,Significant diff between gene and control,No Warning
+205,Median ISI within Network Burst - Std (sec),GPR37L 2,-0.23885625244447245,Down-Regulated,0.8122780200055015,Not Significant,No Warning
+206,Median ISI within Network Burst - Std (sec),LGI2 A12,-1.7292157247459463,Down-Regulated,0.09047704314078757,Not Significant,No Warning
+207,Median ISI within Network Burst - Std (sec),SLITRK5,2.25537965133182,Up-Regulated,0.028910304644068543,Significant diff between gene and control,No Warning
+208,Median ISI within Network Burst - Std (sec),THSD7 1,1.9755837019218465,Up-Regulated,0.0542189792156325,Not Significant,No Warning
+209,Median ISI within Network Burst - Std (sec),THSD7 2,-0.716937475080019,Down-Regulated,0.4770373644585252,Not Significant,No Warning
+210,Median/Mean ISI within Network Burst - Avg,GPR37L 1,-0.6502123992150987,Down-Regulated,0.5187893843916629,Not Significant,No Warning
+211,Median/Mean ISI within Network Burst - Avg,GPR37L 2,1.202193119436152,Up-Regulated,0.2354409599902064,Not Significant,No Warning
+212,Median/Mean ISI within Network Burst - Avg,LGI2 A12,0.3458624925705303,Up-Regulated,0.731022916389243,Not Significant,No Warning
+213,Median/Mean ISI within Network Burst - Avg,SLITRK5,1.3075705130396547,Up-Regulated,0.19751677024631287,Not Significant,No Warning
+214,Median/Mean ISI within Network Burst - Avg,THSD7 1,0.5997248549570637,Up-Regulated,0.5516324859306119,Not Significant,No Warning
+215,Median/Mean ISI within Network Burst - Avg,THSD7 2,0.022172917594664863,Up-Regulated,0.9824059251233388,Not Significant,No Warning
+216,Median/Mean ISI within Network Burst - Std,GPR37L 1,2.4446140242799768,Up-Regulated,0.018391395024183587,Significant diff between gene and control,No Warning
+217,Median/Mean ISI within Network Burst - Std,GPR37L 2,-0.27421970738968443,Down-Regulated,0.7851435030074377,Not Significant,No Warning
+218,Median/Mean ISI within Network Burst - Std,LGI2 A12,-1.263772708769691,Down-Regulated,0.21267871365517085,Not Significant,No Warning
+219,Median/Mean ISI within Network Burst - Std,SLITRK5,-0.44952531247724214,Down-Regulated,0.6551638120458454,Not Significant,No Warning
+220,Median/Mean ISI within Network Burst - Std,THSD7 1,1.5301349766185282,Up-Regulated,0.132831843704605,Not Significant,No Warning
+221,Median/Mean ISI within Network Burst - Std,THSD7 2,0.019015968548414638,Up-Regulated,0.9849106108376915,Not Significant,No Warning
+222,Number of Elecs Participating in Burst - Avg,GPR37L 1,-1.156275118161231,Down-Regulated,0.25353865016227883,Not Significant,No Warning
+223,Number of Elecs Participating in Burst - Avg,GPR37L 2,-1.620169998248682,Down-Regulated,0.11203197099079139,Not Significant,No Warning
+224,Number of Elecs Participating in Burst - Avg,LGI2 A12,1.1586115042557519,Up-Regulated,0.2525942854530601,Not Significant,Warning: Precision loss occurred in moment calculation due to catastrophic cancellation. This occurs when the data are nearly identical. Results may be unreliable.
+225,Number of Elecs Participating in Burst - Avg,SLITRK5,-1.9755320755899846,Down-Regulated,0.054225023137709744,Not Significant,No Warning
+226,Number of Elecs Participating in Burst - Avg,THSD7 1,-2.358234114188609,Down-Regulated,0.022668349018788735,Significant diff between gene and control,No Warning
+227,Number of Elecs Participating in Burst - Avg,THSD7 2,-0.3231381454306951,Down-Regulated,0.7480550173478675,Not Significant,No Warning
+228,Number of Elecs Participating in Burst - Std,GPR37L 1,1.2640548807045626,Up-Regulated,0.21257832603398993,Not Significant,No Warning
+229,Number of Elecs Participating in Burst - Std,GPR37L 2,2.3480514767202503,Up-Regulated,0.023227335450688395,Significant diff between gene and control,No Warning
+230,Number of Elecs Participating in Burst - Std,LGI2 A12,-1.2535115804595,Down-Regulated,0.2163533505753427,Not Significant,No Warning
+231,Number of Elecs Participating in Burst - Std,SLITRK5,2.7088843772767377,Up-Regulated,0.009450149009820458,Significant diff between gene and control,No Warning
+232,Number of Elecs Participating in Burst - Std,THSD7 1,1.7646253199464443,Up-Regulated,0.08426581498963245,Not Significant,No Warning
+233,Number of Elecs Participating in Burst - Std,THSD7 2,0.6000517985218073,Up-Regulated,0.5514164526080225,Not Significant,No Warning
+234,Number of Spikes per Network Burst per Channel - Avg,GPR37L 1,-2.0812736773299934,Down-Regulated,0.043002649147374186,Significant diff between gene and control,No Warning
+235,Number of Spikes per Network Burst per Channel - Avg,GPR37L 2,0.45637578955563113,Up-Regulated,0.6502673548157638,Not Significant,No Warning
+236,Number of Spikes per Network Burst per Channel - Avg,LGI2 A12,-0.1611554375733247,Down-Regulated,0.8726766906737282,Not Significant,No Warning
+237,Number of Spikes per Network Burst per Channel - Avg,SLITRK5,-2.6112177873826,Down-Regulated,0.012141047491477758,Significant diff between gene and control,No Warning
+238,Number of Spikes per Network Burst per Channel - Avg,THSD7 1,-2.2757037758732017,Down-Regulated,0.027567503039587715,Significant diff between gene and control,No Warning
+239,Number of Spikes per Network Burst per Channel - Avg,THSD7 2,-1.607965412676611,Down-Regulated,0.11468577565982739,Not Significant,No Warning
+240,Number of Spikes per Network Burst per Channel - Std,GPR37L 1,-0.6966482651088804,Down-Regulated,0.48952854797341894,Not Significant,No Warning
+241,Number of Spikes per Network Burst per Channel - Std,GPR37L 2,0.4118659400392381,Up-Regulated,0.6823506447318735,Not Significant,No Warning
+242,Number of Spikes per Network Burst per Channel - Std,LGI2 A12,0.8677145631134688,Up-Regulated,0.3900549075654125,Not Significant,No Warning
+243,Number of Spikes per Network Burst per Channel - Std,SLITRK5,-2.2943078300562276,Down-Regulated,0.02638734495386552,Significant diff between gene and control,No Warning
+244,Number of Spikes per Network Burst per Channel - Std,THSD7 1,-0.31661336072832535,Down-Regulated,0.7529694005851228,Not Significant,No Warning
+245,Number of Spikes per Network Burst per Channel - Std,THSD7 2,1.2243164367110038,Up-Regulated,0.2270663492906871,Not Significant,No Warning
+246,Network Burst Percentage,GPR37L 1,-1.3400653823699211,Down-Regulated,0.18680622866658275,Not Significant,No Warning
+247,Network Burst Percentage,GPR37L 2,-1.3239915071637403,Down-Regulated,0.1920476201053987,Not Significant,No Warning
+248,Network Burst Percentage,LGI2 A12,-0.667292006979997,Down-Regulated,0.5079194801032575,Not Significant,No Warning
+249,Network Burst Percentage,SLITRK5,-1.809100390973196,Down-Regulated,0.07697329579331831,Not Significant,No Warning
+250,Network Burst Percentage,THSD7 1,-1.6847709500904957,Down-Regulated,0.09880679654022698,Not Significant,No Warning
+251,Network Burst Percentage,THSD7 2,-0.5573061402268152,Down-Regulated,0.5800201838424717,Not Significant,No Warning
+252,Network IBI Coefficient of Variation,GPR37L 1,1.5262975003053154,Up-Regulated,0.1337828658609825,Not Significant,No Warning
+253,Network IBI Coefficient of Variation,GPR37L 2,4.779559757787359,Up-Regulated,1.8346522417524584e-05,Significant diff between gene and control,No Warning
+254,Network IBI Coefficient of Variation,LGI2 A12,3.8402773763038116,Up-Regulated,0.0003741619517603977,Significant diff between gene and control,No Warning
+255,Network IBI Coefficient of Variation,SLITRK5,1.8453686235194302,Up-Regulated,0.07142653916722423,Not Significant,No Warning
+256,Network IBI Coefficient of Variation,THSD7 1,0.8452838746338052,Up-Regulated,0.4023277285642022,Not Significant,No Warning
+257,Network IBI Coefficient of Variation,THSD7 2,3.480798779386889,Up-Regulated,0.0011062167421776313,Significant diff between gene and control,No Warning
+258,Network Normalized Duration IQR,GPR37L 1,-2.1138907585325413,Down-Regulated,0.03997709129254488,Significant diff between gene and control,No Warning
+259,Network Normalized Duration IQR,GPR37L 2,-0.8808607801253526,Down-Regulated,0.3829724717119718,Not Significant,No Warning
+260,Network Normalized Duration IQR,LGI2 A12,0.05537143342276992,Up-Regulated,0.9560823573226527,Not Significant,No Warning
+261,Network Normalized Duration IQR,SLITRK5,-1.8085222464430277,Down-Regulated,0.07706457307554622,Not Significant,No Warning
+262,Network Normalized Duration IQR,THSD7 1,-0.8809498332666558,Down-Regulated,0.38292477404751035,Not Significant,No Warning
+263,Network Normalized Duration IQR,THSD7 2,-0.9335768379078866,Down-Regulated,0.35539700618479186,Not Significant,No Warning
+264,Area Under Normalized Cross-Correlation,GPR37L 1,-0.6888616914569017,Down-Regulated,0.4943702818887684,Not Significant,No Warning
+265,Area Under Normalized Cross-Correlation,GPR37L 2,-0.30095444257475856,Down-Regulated,0.7648054015256243,Not Significant,No Warning
+266,Area Under Normalized Cross-Correlation,LGI2 A12,-1.488626906129846,Down-Regulated,0.14340987178816564,Not Significant,No Warning
+267,Area Under Normalized Cross-Correlation,SLITRK5,0.22089586743152934,Up-Regulated,0.8261510887285387,Not Significant,No Warning
+268,Area Under Normalized Cross-Correlation,THSD7 1,-1.9776111909721628,Down-Regulated,0.053982078656298595,Not Significant,No Warning
+269,Area Under Normalized Cross-Correlation,THSD7 2,-0.48934920782310454,Down-Regulated,0.6269199061288627,Not Significant,No Warning
+270,Area Under Cross-Correlation,GPR37L 1,-1.035900083680052,Down-Regulated,0.3056639284910711,Not Significant,No Warning
+271,Area Under Cross-Correlation,GPR37L 2,-0.6866890508038284,Down-Regulated,0.4957259473221285,Not Significant,No Warning
+272,Area Under Cross-Correlation,LGI2 A12,-1.2819813277907284,Down-Regulated,0.2062729192920772,Not Significant,No Warning
+273,Area Under Cross-Correlation,SLITRK5,-0.26260256390260356,Down-Regulated,0.7940294791514486,Not Significant,No Warning
+274,Area Under Cross-Correlation,THSD7 1,-1.9474139832447592,Down-Regulated,0.057604256571071294,Not Significant,No Warning
+275,Area Under Cross-Correlation,THSD7 2,-1.7323043850991044,Down-Regulated,0.08992052081082953,Not Significant,No Warning
+276,Full Width at Half Height of Normalized Cross-Correlation,GPR37L 1,0.5937261917217219,Up-Regulated,0.5556038091176028,Not Significant,No Warning
+277,Full Width at Half Height of Normalized Cross-Correlation,GPR37L 2,0.19916330180687908,Up-Regulated,0.8430127436755585,Not Significant,No Warning
+278,Full Width at Half Height of Normalized Cross-Correlation,LGI2 A12,1.727220078034321,Up-Regulated,0.09083814334595385,Not Significant,No Warning
+279,Full Width at Half Height of Normalized Cross-Correlation,SLITRK5,-2.410453582336152,Down-Regulated,0.019987123997492216,Significant diff between gene and control,No Warning
+280,Full Width at Half Height of Normalized Cross-Correlation,THSD7 1,1.77492284245213,Up-Regulated,0.08252785251712726,Not Significant,No Warning
+281,Full Width at Half Height of Normalized Cross-Correlation,THSD7 2,-2.162245305349072,Down-Regulated,0.035835117728424744,Significant diff between gene and control,No Warning
+282,Full Width at Half Height of Cross-Correlation,GPR37L 1,-0.9114156112025579,Down-Regulated,0.3668281223911819,Not Significant,No Warning
+283,Full Width at Half Height of Cross-Correlation,GPR37L 2,-0.15926264383079392,Down-Regulated,0.8741591749604619,Not Significant,No Warning
+284,Full Width at Half Height of Cross-Correlation,LGI2 A12,-0.6548241135482666,Down-Regulated,0.5158421834352256,Not Significant,No Warning
+285,Full Width at Half Height of Cross-Correlation,SLITRK5,0.23741556804624905,Up-Regulated,0.8133886635030155,Not Significant,No Warning
+286,Full Width at Half Height of Cross-Correlation,THSD7 1,-1.572146023821862,Down-Regulated,0.1227704503903914,Not Significant,No Warning
+287,Full Width at Half Height of Cross-Correlation,THSD7 2,-2.7348138523040513,Down-Regulated,0.008834393964679724,Significant diff between gene and control,No Warning
+288,Percent Bursts with Start Electrode,GPR37L 1,-0.7145047034457408,Down-Regulated,0.4785255467376357,Not Significant,No Warning
+289,Percent Bursts with Start Electrode,GPR37L 2,-0.931659629556044,Down-Regulated,0.3563766664702962,Not Significant,No Warning
+290,Percent Bursts with Start Electrode,LGI2 A12,-1.248991399274007,Down-Regulated,0.21798698000342373,Not Significant,No Warning
+291,Percent Bursts with Start Electrode,SLITRK5,-0.7874389452489334,Down-Regulated,0.43506367471440033,Not Significant,No Warning
+292,Percent Bursts with Start Electrode,THSD7 1,-0.9074563163952468,Down-Regulated,0.36889505748343054,Not Significant,No Warning
+293,Percent Bursts with Start Electrode,THSD7 2,-0.37825751114042827,Down-Regulated,0.7069793545074288,Not Significant,No Warning
+294,Burst Peak (Max Spikes per sec),GPR37L 1,-0.04036064019276579,Down-Regulated,0.9679802793039514,Not Significant,No Warning
+295,Burst Peak (Max Spikes per sec),GPR37L 2,-0.5580646514183376,Down-Regulated,0.57950641190053,Not Significant,No Warning
+296,Burst Peak (Max Spikes per sec),LGI2 A12,-1.1665499319886847,Down-Regulated,0.24940450507948,Not Significant,No Warning
+297,Burst Peak (Max Spikes per sec),SLITRK5,-1.7622612552031653,Down-Regulated,0.08466909877515123,Not Significant,No Warning
+298,Burst Peak (Max Spikes per sec),THSD7 1,-2.001671955146141,Down-Regulated,0.051238163435710325,Not Significant,No Warning
+299,Burst Peak (Max Spikes per sec),THSD7 2,0.3064770478300901,Up-Regulated,0.7606244211690268,Not Significant,No Warning
+300,Time to Burst Peak (ms),GPR37L 1,-1.4629020850965124,Down-Regulated,0.15029377509474579,Not Significant,No Warning
+301,Time to Burst Peak (ms),GPR37L 2,-1.1298257463826562,Down-Regulated,0.2644068024299844,Not Significant,No Warning
+302,Time to Burst Peak (ms),LGI2 A12,-1.084924130717163,Down-Regulated,0.2836086569370001,Not Significant,No Warning
+303,Time to Burst Peak (ms),SLITRK5,-2.0533681235486188,Down-Regulated,0.04574793704006773,Significant diff between gene and control,No Warning
+304,Time to Burst Peak (ms),THSD7 1,-1.0404930115236442,Down-Regulated,0.30354903925655863,Not Significant,No Warning
+305,Time to Burst Peak (ms),THSD7 2,-1.553679364741507,Down-Regulated,0.12711476175242276,Not Significant,No Warning
+306,Resistance - Avg (kOhms),GPR37L 1,-1.0274390333705394,Down-Regulated,0.3095863259738358,Not Significant,No Warning
+307,Resistance - Avg (kOhms),GPR37L 2,-0.8566776638820688,Down-Regulated,0.39606404952595375,Not Significant,No Warning
+308,Resistance - Avg (kOhms),LGI2 A12,0.1443821452019314,Up-Regulated,0.885829438471868,Not Significant,No Warning
+309,Resistance - Avg (kOhms),SLITRK5,-4.5959463196036365,Down-Regulated,3.3633501789400885e-05,Significant diff between gene and control,No Warning
+310,Resistance - Avg (kOhms),THSD7 1,-2.1245700766339044,Down-Regulated,0.039027836458060156,Significant diff between gene and control,No Warning
+311,Resistance - Avg (kOhms),THSD7 2,-5.40236744165386,Down-Regulated,2.2528722798663686e-06,Significant diff between gene and control,No Warning
+312,Resistance - Std (kOhms),GPR37L 1,0.8594698782373769,Up-Regulated,0.3945383708399067,Not Significant,No Warning
+313,Resistance - Std (kOhms),GPR37L 2,1.6396663495164443,Up-Regulated,0.10789659336541786,Not Significant,No Warning
+314,Resistance - Std (kOhms),LGI2 A12,0.23292777277079438,Up-Regulated,0.8168508419596212,Not Significant,No Warning
+315,Resistance - Std (kOhms),SLITRK5,1.8971269829263684,Up-Regulated,0.06409934920418288,Not Significant,No Warning
+316,Resistance - Std (kOhms),THSD7 1,-0.2646962163601298,Down-Regulated,0.79242596110132,Not Significant,No Warning
+317,Resistance - Std (kOhms),THSD7 2,3.798592438940147,Up-Regulated,0.00042527502682281244,Significant diff between gene and control,No Warning
+318,Number of Covered Electrodes,GPR37L 1,0.0,Same/NA,1.0,Not Significant,No Warning
+319,Number of Covered Electrodes,GPR37L 2,-0.7276068751089989,Down-Regulated,0.4705416483399887,Not Significant,No Warning
+320,Number of Covered Electrodes,LGI2 A12,0.0,Same/NA,1.0,Not Significant,No Warning
+321,Number of Covered Electrodes,SLITRK5,-1.4176419639189852,Down-Regulated,0.16303386752078836,Not Significant,No Warning
+322,Number of Covered Electrodes,THSD7 1,0.0,Same/NA,1.0,Not Significant,No Warning
+323,Number of Covered Electrodes,THSD7 2,-3.3508051856649237,Down-Regulated,0.0016174413477980055,Significant diff between gene and control,No Warning
+324,Weighted Mean Resistance (kOhms),GPR37L 1,-1.020857899156777,Down-Regulated,0.3126608755135294,Not Significant,No Warning
+325,Weighted Mean Resistance (kOhms),GPR37L 2,-0.4697085754404481,Down-Regulated,0.6407823272775133,Not Significant,No Warning
+326,Weighted Mean Resistance (kOhms),LGI2 A12,0.2503895085854365,Up-Regulated,0.8034011151035976,Not Significant,No Warning
+327,Weighted Mean Resistance (kOhms),SLITRK5,-4.572163550279019,Down-Regulated,3.6362048390226866e-05,Significant diff between gene and control,No Warning
+328,Weighted Mean Resistance (kOhms),THSD7 1,-2.155531748859721,Down-Regulated,0.036386625122437566,Significant diff between gene and control,No Warning
+329,Weighted Mean Resistance (kOhms),THSD7 2,-2.051071501045598,Down-Regulated,0.045980522315655345,Significant diff between gene and control,No Warning
