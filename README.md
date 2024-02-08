@@ -1,7 +1,21 @@
 # MultipleElectrodeAnalysisANOVA
+Neurons are cell types in the brain that communicate with electrical impulses to send and receive signals to regulate an organism's system. We analyze how these neurons react in vitro to mutations and chemical perturbations using Multiple Electrode Arrays. Specifically, we use the instrument from Axion Biosystems, which is a small chip with a grid of electrodes to record activity of neurons on the plate. When more than one electrode receives a signal of electrical impulses, it can be gathered multiple neurons are firing on the plate. The following table details the different measurements taken from neuronal activity. 
 
-## Two-Way ANOVA 
-### Repeated Measurements
+\table here 
+
+MEA data is profound because it captures the symphony of neural activity, demonstrating the brain (brain slice) operating as a network. 
+
+Neurons are affected by gRNA mutations 
+## Analysis
+### Two-Way ANOVA
+
+
+#### Repeated Measurements
+
+
+### T-tests
+
+### Plot
 
 
 ## Environment
@@ -23,5 +37,7 @@ In order to plot each neuronal measurement (Mean Firing Rate, Area under Cross-C
 
 ![CNO treatment on Div19 monitored for 1min](https://github.com/soderling-lab/MultipleElectrodeAnalysisANOVA/blob/clean/bar_charts/CNO/DIV19/1_MIN/Mean%20Firing%20Rate%20(Hz).png)
 
-### T-Test
+### T-Test 
+To perform a t-test with neuronal data between a __gRNA perturbation___ and control system, please navigate into [t-test.ipynb](analysis/t-test.ipynb) and adjust the data as indicated (#adjust) and run the remaining cells. The t-test results will be saved under [t-tests_results/](t-test_results) as both `.csv` files and a singular `.xlsx`. If you are dealing with a number of different doses, it will create a worksheet for each dose, showing variation between mutant gRNA and control (unt2). The t-statistic and p-value are provided as results.
 
+how are neuronrs analyzed with multipleelectode array. i need to introudce neurons, electrochemical analysis... we use brain slices w the MEA and then it gives a bunch of parameters like Mean Firing rate, Area under cross-correlation, number of spikes within burst, etc.
