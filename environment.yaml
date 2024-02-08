@@ -17,5 +17,6 @@ dependencies:
       - seaborn
       - scikit-learn
       - pingouin
+      - Jinja2
 
 
