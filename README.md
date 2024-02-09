@@ -24,6 +24,8 @@ Analyzing t-test results across Days (DIV) of analysis can be visualized using a
 ### Bar plots (comparison)
 To visualize the effect of each knockout and chemical dosages, we plot a bar chart to demonstrate the trend for each knockout/control and the effect of the different chemical concentrations on each gene of interest.
 
+![CNO treatment on Div19 monitored for 1min](https://github.com/soderling-lab/MultipleElectrodeAnalysisANOVA/blob/clean/bar_charts/CNO/DIV19/1_MIN/Mean%20Firing%20Rate%20(Hz).png)
+
 ## Environment
 Please build the environment running `conda env create -f environment.yaml` and push to jupyter-notebook kernel using `python -m ipykernel install --user --name <anovaenv> --display-name "<displayname>"`
 
@@ -41,7 +43,6 @@ If you would like to do an ANOVA Repeated Measures analysis, set `ANOVARM = True
 ### Plot
 In order to plot each neuronal measurement (Mean Firing Rate, Area under Cross-Correlation) across all gRNAs and doses, pleas run [plot.ipynb](analysis/plot.ipynb) with the changes indicated under Program Instructions. In the third cell make the necessary changes and ensure the kernel is on anovaenv. The plots for each measurement will be visible and will be saved under (`save_figfile`) the defined pathway [/bar_charts/{PERTURBATION}/{plate_type}/{EXPERIMENT_TIME}/{testparameter}](bar_charts). 
 
-![CNO treatment on Div19 monitored for 1min](https://github.com/soderling-lab/MultipleElectrodeAnalysisANOVA/blob/clean/bar_charts/CNO/DIV19/1_MIN/Mean%20Firing%20Rate%20(Hz).png)
 
 ### T-Test 
 To perform a t-test with neuronal data between a __gRNA perturbation___ and control system, please navigate into [t-test.ipynb](analysis/t-test.ipynb) and adjust the data as indicated (#adjust) and run the remaining cells. The t-test results will be saved under [t-tests_results/](t-test_results) as both `.csv` files and a singular `.xlsx`. If you are dealing with a number of different doses, it will create a worksheet for each dose, showing variation between mutant gRNA and control (unt2). The t-statistic and p-value are provided as results.
