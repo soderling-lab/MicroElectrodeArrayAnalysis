@@ -1,9 +1,9 @@
 # MultipleElectrodeArrayAnalysis
-Neurons are cell types in the brain that communicate with electrical impulses to send and receive signals to regulate an organism's system. We analyze how these neurons react in vitro to mutations and chemical perturbations using Multiple Electrode Arrays. Specifically, we use the instrument from Axion Biosystems, which is a small chip with a grid of electrodes to record activity of neurons on the plate. When more than one electrode receives a signal of electrical impulses, it can be gathered multiple neurons are firing on the plate. The following table details the different measurements taken from neuronal activity. 
+Neurons are cell types in the brain that communicate with electrical impulses to send and receive signals to regulate an organism's system. We analyze how these neurons react in vitro to mutations and chemical perturbations using Multiple Electrode Arrays. Specifically, we use the instrument from Axion Biosystems, which is a small chip with a grid of electrodes to record activity of neurons on the plate. When more than one electrode receives a signal of electrical impulses, it is indicative of multiple neurons firing at the same time. The following table details the different measurements taken from neuronal activity. 
 
-\table here 
+\table here.. ok for public?
 
-MEA data is profound because it captures the symphony of neural activity, demonstrating the brain (brain slice) operating as a network. 
+MEA data is profound because it captures the symphony of neural activity, demonstrating the brain (brain slice) operating as a network.
 
 Upregulation of certain proteins can cause varying neurotic illnesses. We test whether the knockout of certain genes transcribing these proteins stimulate neuronal activity similar to certain illnesses (ie. epilepsy). We specifically test whether our genes of interest have an effect when knocked out. Additionally, we study whether the introduction of certain chemical dosages have an effect on the neural network. Given these knockouts and varying dosing of the network, we conclude whether the knockout, chemical perturbation, or a combination of the two have an effect on the system.
 
