@@ -5,11 +5,11 @@ Neurons are cell types in the brain that communicate with electrical impulses to
 
 MEA data is profound because it captures the symphony of neural activity, demonstrating the brain (brain slice) operating as a network. 
 
-Upregulation of certain proteins can cause varying neurotic illnesses. We test whether the knockout of certain genes transcribing these proteins stimulate neuronal activity similar to certain illnesses (ie. epilepsy). We specifically test whether these genes of interest (GPR37L1, GPR37L2, LGI2A12, SLITRK5, THSD71, THSD72) have an effect when knocked out. Additionally, we study whether the introduction of certain chemical dosages have an effect on the neural network. Given these knockouts and varying dosing of the network, we conclude whether the knockout, chemical perturbation, or a combination of the two have an effect on the system.
+Upregulation of certain proteins can cause varying neurotic illnesses. We test whether the knockout of certain genes transcribing these proteins stimulate neuronal activity similar to certain illnesses (ie. epilepsy). We specifically test whether our genes of interest have an effect when knocked out. Additionally, we study whether the introduction of certain chemical dosages have an effect on the neural network. Given these knockouts and varying dosing of the network, we conclude whether the knockout, chemical perturbation, or a combination of the two have an effect on the system.
 
 ## Analysis
 ### Two-Way ANOVA
-The effect of two independent variables (IV) on a continuous dependent variable can be studied with Analysis of Variance (ANOVA) tests. Here, we analyze the dependent variable (measurement taken by MEA) as an effect of the knockout gene, chemical peturbation independently, and then the effect the two IV on eachother. 
+The effect of two independent variables (IV) on a continuous dependent variable can be studied with Analysis of Variance (ANOVA) tests. Here, we analyze the dependent variable (measurement taken by MEA) as an effect of the knockout gene, chemical perturbation independently, and then the effect the two IV on eachother. 
 
 #### Repeated Measurements
 Since we analyze ~24-36 replicates at a time (2-3 MEA plates), we must perform a Repeated Measures (RM) 2-way ANOVA test to adjust for variances within the same experiment. When there are changes in the mean across $\geq 3$ time points OR the same subjects (knockout genes) have varying means across $\geq 3$ or more conditions [2].
@@ -18,9 +18,11 @@ Since we analyze ~24-36 replicates at a time (2-3 MEA plates), we must perform a
 ### T-tests
 We can compare the neural measurements of a system with a specific gene knocked out to a controlled normal functioning system, regardless of chemical dosing. We study the hypothesis that if gene _G_ is knocked out, then the neural system will have a change in activity. The degree of change depends on the test parameter itself (ie. Mean Firing Rate (Hz) may be expected to increase while Percent Bursts with Start Electrode may be expected to decrease). To perform t-tests between two groups (ko vs control) across multiple test parameters taken from the same study sample, we adjust for multiple testing using bonferroni method, which conservatively adjusts for type I errors (false-positives) by adjusting the alpha value (significance) to account for number of tests. Given we normally find that a significance value of $\leq 0.05$ yields there is significant change between the two groups, however, bonferroni adjust this threshold on a case by case basis, in terms of parameters measured.
 
-#### Plot
-Analyzing t-test results across Days (DIV) of analysis can be visualized using a line graph. We calculate fold change between groups and plot that to show how much change the knockout system has in comparison to the control (unt2). If the p-value is significant after multiple testing adjustment, the fold-change on that day is outlined red. [Link to plots]()
 
+#### Plot
+Analyzing t-test results across chemical dosings can be visualized using a line graph. We plot fold change between control and mutant to show how much change the knockout system has in comparison to the control (unt2). If the p-value is significant after multiple testing adjustment, the fold-change on that day is outlined red. You can find this pipeline here: [plot_ttest.ipynb](analysis/plot_ttest.ipynb)
+
+![CNO treatment on Div19 across varying dosages T-test results](https://github.com/soderling-lab/MultipleElectrodeArrayAnalysis/blob/clean/t-test_results/Div19_CNO/Div19_1minute/plots/Mean%20Firing%20Rate%20(Hz).png)
 ### Bar plots (comparison)
 To visualize the effect of each knockout and chemical dosages, we plot a bar chart to demonstrate the trend for each knockout/control and the effect of the different chemical concentrations on each gene of interest.
 
