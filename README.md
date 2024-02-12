@@ -1,8 +1,30 @@
-# MultipleElectrodeAnalysisANOVA
+# MultipleElectrodeArrayAnalysis
+Neurons are cell types in the brain that communicate with electrical impulses to send and receive signals to regulate an organism's system. We analyze how these neurons react in vitro to mutations and chemical perturbations using Multiple Electrode Arrays. Specifically, we use the instrument from Axion Biosystems, which is a small chip with a grid of electrodes to record activity of neurons on the plate. When more than one electrode receives a signal of electrical impulses, it can be gathered multiple neurons are firing on the plate. The following table details the different measurements taken from neuronal activity. 
 
-## Two-Way ANOVA 
-### Repeated Measurements
+\table here 
 
+MEA data is profound because it captures the symphony of neural activity, demonstrating the brain (brain slice) operating as a network. 
+
+Upregulation of certain proteins can cause varying neurotic illnesses. We test whether the knockout of certain genes transcribing these proteins stimulate neuronal activity similar to certain illnesses (ie. epilepsy). We specifically test whether these genes of interest (GPR37L1, GPR37L2, LGI2A12, SLITRK5, THSD71, THSD72) have an effect when knocked out. Additionally, we study whether the introduction of certain chemical dosages have an effect on the neural network. Given these knockouts and varying dosing of the network, we conclude whether the knockout, chemical perturbation, or a combination of the two have an effect on the system.
+
+## Analysis
+### Two-Way ANOVA
+The effect of two independent variables (IV) on a continuous dependent variable can be studied with Analysis of Variance (ANOVA) tests. Here, we analyze the dependent variable (measurement taken by MEA) as an effect of the knockout gene, chemical peturbation independently, and then the effect the two IV on eachother. 
+
+#### Repeated Measurements
+Since we analyze ~24-36 replicates at a time (2-3 MEA plates), we must perform a Repeated Measures (RM) 2-way ANOVA test to adjust for variances within the same experiment. When there are changes in the mean across $\geq 3$ time points OR the same subjects (knockout genes) have varying means across $\geq 3$ or more conditions [2].
+
+
+### T-tests
+We can compare the neural measurements of a system with a specific gene knocked out to a controlled normal functioning system, regardless of chemical dosing. We study the hypothesis that if gene _G_ is knocked out, then the neural system will have a change in activity. The degree of change depends on the test parameter itself (ie. Mean Firing Rate (Hz) may be expected to increase while Percent Bursts with Start Electrode may be expected to decrease). To perform t-tests between two groups (ko vs control) across multiple test parameters taken from the same study sample, we adjust for multiple testing using bonferroni method, which conservatively adjusts for type I errors (false-positives) by adjusting the alpha value (significance) to account for number of tests. Given we normally find that a significance value of $\leq 0.05$ yields there is significant change between the two groups, however, bonferroni adjust this threshold on a case by case basis, in terms of parameters measured.
+
+#### Plot
+Analyzing t-test results across Days (DIV) of analysis can be visualized using a line graph. We calculate fold change between groups and plot that to show how much change the knockout system has in comparison to the control (unt2). If the p-value is significant after multiple testing adjustment, the fold-change on that day is outlined red. [Link to plots]()
+
+### Bar plots (comparison)
+To visualize the effect of each knockout and chemical dosages, we plot a bar chart to demonstrate the trend for each knockout/control and the effect of the different chemical concentrations on each gene of interest.
+
+![CNO treatment on Div19 monitored for 1min](https://github.com/soderling-lab/MultipleElectrodeAnalysisANOVA/blob/clean/bar_charts/CNO/DIV19/1_MIN/Mean%20Firing%20Rate%20(Hz).png)
 
 ## Environment
 Please build the environment running `conda env create -f environment.yaml` and push to jupyter-notebook kernel using `python -m ipykernel install --user --name <anovaenv> --display-name "<displayname>"`
@@ -21,7 +43,8 @@ If you would like to do an ANOVA Repeated Measures analysis, set `ANOVARM = True
 ### Plot
 In order to plot each neuronal measurement (Mean Firing Rate, Area under Cross-Correlation) across all gRNAs and doses, pleas run [plot.ipynb](analysis/plot.ipynb) with the changes indicated under Program Instructions. In the third cell make the necessary changes and ensure the kernel is on anovaenv. The plots for each measurement will be visible and will be saved under (`save_figfile`) the defined pathway [/bar_charts/{PERTURBATION}/{plate_type}/{EXPERIMENT_TIME}/{testparameter}](bar_charts). 
 
-![CNO treatment on Div19 monitored for 1min](https://github.com/soderling-lab/MultipleElectrodeAnalysisANOVA/blob/clean/bar_charts/CNO/DIV19/1_MIN/Mean%20Firing%20Rate%20(Hz).png)
 
-### T-Test
+### T-Test 
+To perform a t-test with neuronal data between a __gRNA perturbation___ and control system, please navigate into [t-test.ipynb](analysis/t-test.ipynb) and adjust the data as indicated (#adjust) and run the remaining cells. The t-test results will be saved under [t-tests_results/](t-test_results) as both `.csv` files and a singular `.xlsx`. If you are dealing with a number of different doses, it will create a worksheet for each dose, showing variation between mutant gRNA and control (unt2). The t-statistic and p-value are provided as results.
 
+how are neuronrs analyzed with multipleelectode array. i need to introudce neurons, electrochemical analysis... we use brain slices w the MEA and then it gives a bunch of parameters like Mean Firing rate, Area under cross-correlation, number of spikes within burst, etc.

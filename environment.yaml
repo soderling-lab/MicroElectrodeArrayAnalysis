@@ -18,5 +18,6 @@ dependencies:
       - scikit-learn
       - pingouin
       - Jinja2
+      - openpyxl
 
 
