@@ -1,5 +1,5 @@
-# MultipleElectrodeArrayAnalysis
-Neurons are cell types in the brain that communicate with electrical impulses to send and receive signals to regulate an organism's system. We analyze how these neurons react in vitro to mutations and chemical perturbations using Multiple Electrode Arrays. Specifically, we use the instrument from Axion Biosystems, which is a small chip with a grid of electrodes to record activity of neurons on the plate. When more than one electrode receives a signal of electrical impulses, it is indicative of multiple neurons firing at the same time. The following table details the different measurements taken from neuronal activity. 
+# MicroElectrodeArrayAnalysis
+Neurons are cell types in the brain that communicate with electrical impulses to send and receive signals to regulate an organism's system. We analyze how these neurons react in vitro to mutations and chemical perturbations using Microelectrode Arrays. Specifically, we use the instrument from Axion Biosystems, which is a small chip with a grid of electrodes to record activity of neurons on the plate. When more than one electrode receives a signal of electrical impulses, it is indicative of multiple neurons firing at the same time. The following table details the different measurements taken from neuronal activity. 
 
 \table here.. ok for public?
 
